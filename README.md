@@ -14,3 +14,5 @@ I used an unprotected IP Camera for detection - may be unethical, but a nice rep
 Sample Output:
 
 ![Alt text](https://github.com/bbuxton93/object_detection/blob/master/Sample_Output_SSD.PNG)
+
+As you can see - it struggles catching everyone in real-time, but does a decent job for nearby objects/people!
