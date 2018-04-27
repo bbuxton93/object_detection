@@ -10,3 +10,6 @@ https://towardsdatascience.com/building-a-real-time-object-recognition-app-with-
 https://pythonprogramming.net/video-tensorflow-object-detection-api-tutorial/
 
 I used an unprotected IP Camera for detection - may be unethical, but a nice representation!
+
+Sample Output:
+
